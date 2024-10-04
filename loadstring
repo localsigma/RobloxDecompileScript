@@ -1,4 +1,3 @@
-lua
 	local Params = {
 		RepoURL = "https://raw.githubusercontent.com/localcapy/RobloxDecompileScript/refs/heads/main/saveinstance.luau",
 		SSI = "saveinstance",
