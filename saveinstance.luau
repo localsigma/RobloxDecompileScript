@@ -1,7 +1,7 @@
 --!native
 --!optimize 2
 --!divine-intellect
--- https://discord.gg/rdD4BDxEKp
+-- https://discord.gg/mZqfShECH2
 
 local function string_find(s, pattern)
 	return string.find(s, pattern, nil, true)
@@ -2510,7 +2510,7 @@ local function synsaveinstance(CustomOptions, CustomOptions2)
 											end
 										end
 
-										value = "-- Saved by Saveinstance from localcapyreaper lol https://discord.gg/rdD4BDxEKp\n\n"
+										value = "-- Saved by Saveinstance from localsigma_ lol https://discord.gg/mZqfShECH2\n\n"
 											.. (hasLinkedSource and "-- Original Source: https://assetdelivery.roblox.com/v1/asset/?" .. (LinkedSource_type or "id") .. "=" .. (LinkedSource or LinkedSource_Url) .. "\n\n" or "")
 											.. value
 									end
@@ -2673,7 +2673,7 @@ local function synsaveinstance(CustomOptions, CustomOptions2)
 						RecoveredScripts
 					) .. "\n" or "")
 					.. [[
-		Thank you for using UniversalSynSaveInstance https://discord.gg/rdD4BDxEKp.
+		Thank you for using UniversalSynSaveInstance https://discord.gg/mZqfShECH2.
 
 		If you didn't save in Binary (rbxl) - it's recommended to save the game right away to take advantage of the binary format & to preserve values of certain properties if you used IgnoreDefaultProperties setting (as they might change in the future).
 		You can do that by going to FILE -> Save to File As -> Make sure File Name ends with .rbxl -> Save
