@@ -1,5 +1,5 @@
 	local Params = {
-		RepoURL = "https://raw.githubusercontent.com/localcapy/RobloxDecompileScript/refs/heads/main/",
+		RepoURL = "https://raw.githubusercontent.com/localsigma/RobloxDecompileScript/refs/heads/main/",
 		SSI = "saveinstance",
 	}
 
