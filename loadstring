@@ -1,3 +1,5 @@
+-- Disable "SafeMode" for GUIs!
+
 	local Params = {
 		RepoURL = "https://raw.githubusercontent.com/localsigma/RobloxDecompileScript/refs/heads/main/",
 		SSI = "saveinstance",
